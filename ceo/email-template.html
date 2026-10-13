@@ -1,0 +1,71 @@
+<!--
+  CEO email skeleton. Rules for what goes in it: TalkingToOwner.md.
+  Inline styles only (Gmail drops <style> blocks). Copy a block as many times as needed,
+  delete blocks that have nothing to say, and replace every {{...}}. Never send placeholder text.
+  Colours: ink #0b0b0f · pink #ff3d76 · green #1f9d6f · violet #6b5bd6 · amber #b7791f · slate #475569
+-->
+<div style="font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:15px;line-height:1.55;color:#1a1a1f;max-width:640px;margin:0 auto;background:#ffffff">
+
+  <!-- HEADER -->
+  <div style="background:#0b0b0f;color:#f2f2f7;padding:22px 22px 18px;border-radius:12px 12px 0 0">
+    <div style="font-family:Menlo,monospace;font-size:12px;letter-spacing:.14em;color:#ff7ba0;text-transform:uppercase">CEO RUN · {{Day N}} · {{date}}</div>
+    <div style="font-size:22px;font-weight:800;margin-top:6px">{{one-line headline}}</div>
+  </div>
+
+  <!-- IN SHORT: what happened, in human sentences, the most important thing first -->
+  <div style="background:#f4f2ff;border-left:5px solid #6b5bd6;padding:16px 18px;margin:0">
+    <div style="font-weight:800;color:#6b5bd6;font-size:13px;letter-spacing:.08em;text-transform:uppercase">In short</div>
+    <p style="margin:8px 0 0">{{3-5 sentences: what happened today, why, and the one thing the owner should take away}}</p>
+  </div>
+
+  <!-- NUMBERS -->
+  <h2 style="font-size:17px;color:#0b0b0f;border-bottom:3px solid #1f9d6f;padding-bottom:6px;margin:26px 0 10px">📊 The numbers</h2>
+  <table style="width:100%;border-collapse:collapse;font-size:14px">
+    <tr style="background:#f1f5f9"><th style="text-align:left;padding:8px">Channel</th><th style="text-align:right;padding:8px">Followers</th><th style="text-align:right;padding:8px">Change</th></tr>
+    <tr><td style="padding:8px;border-bottom:1px solid #e5e7eb">{{Instagram}}</td><td style="text-align:right;padding:8px;border-bottom:1px solid #e5e7eb">{{n}}</td><td style="text-align:right;padding:8px;border-bottom:1px solid #e5e7eb;color:#1f9d6f">{{+n}}</td></tr>
+  </table>
+  <p style="font-size:13px;color:#475569;margin:6px 0 0">{{where the numbers came from and when; what is too fresh to judge}}</p>
+
+  <!-- DECISIONS: one card per decision that matters -->
+  <h2 style="font-size:17px;color:#0b0b0f;border-bottom:3px solid #ff3d76;padding-bottom:6px;margin:26px 0 10px">🧭 Decisions and why</h2>
+  <div style="border:1px solid #e5e7eb;border-radius:10px;padding:16px 18px;margin:0 0 14px">
+    <div style="font-weight:800;font-size:16px">{{Decision}}</div>
+    <div style="margin:6px 0 10px">
+      <!-- choose one badge: RESEARCHED (green) / PARTLY RESEARCHED (amber) / MY JUDGMENT (slate) -->
+      <span style="display:inline-block;background:#e7f7ef;color:#1f9d6f;font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px">RESEARCHED</span>
+      <span style="display:inline-block;background:#fdf3e1;color:#b7791f;font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px">RISK: {{LOW/MEDIUM/HIGH}}</span>
+      <span style="display:inline-block;background:#f1f5f9;color:#475569;font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px">REVERSIBLE: {{how}}</span>
+    </div>
+    <p style="margin:0 0 8px"><b>What I did:</b> {{concrete, with links}}</p>
+    <p style="margin:0 0 8px"><b>Why:</b> {{the reasoning and the numbers behind it}}</p>
+    <p style="margin:0 0 8px"><b>How I know:</b> {{what the research found and how solid it is, or "my judgment, because…"}}</p>
+    <p style="margin:0 0 8px"><b>Alternatives I didn't take:</b> {{option, and why not}}</p>
+    <p style="margin:0 0 8px"><b>What could go wrong, and how it's handled:</b> {{risk → mitigation}}</p>
+    <!-- only when something became public -->
+    <div style="background:#fff7ed;border-radius:8px;padding:10px 12px;font-size:14px"><b>Now public:</b> {{exactly what}} · <b>Not public:</b> {{what stays private}} · <b>Why that's safe:</b> {{reason}}</div>
+  </div>
+
+  <!-- ALSO DONE: small things, one line each -->
+  <h2 style="font-size:17px;color:#0b0b0f;border-bottom:3px solid #475569;padding-bottom:6px;margin:26px 0 10px">🔧 Also done</h2>
+  <ul style="padding-left:18px;margin:0"><li>{{small action and its result}}</li></ul>
+
+  <!-- PROBLEMS: what failed or is unfinished, plainly -->
+  <h2 style="font-size:17px;color:#0b0b0f;border-bottom:3px solid #b7791f;padding-bottom:6px;margin:26px 0 10px">⚠️ What didn't work</h2>
+  <ul style="padding-left:18px;margin:0"><li>{{what, why, what happens next}}</li></ul>
+
+  <!-- ASKS: answered in a CEO EMAIL RESPONSE session -->
+  <div style="background:#0b0b0f;color:#f2f2f7;border-radius:10px;padding:16px 18px;margin:26px 0 0">
+    <div style="font-weight:800;color:#ff7ba0;font-size:13px;letter-spacing:.08em;text-transform:uppercase">What I need from you</div>
+    <p style="margin:6px 0 10px;color:#c8c8d4;font-size:13px">Answer in VS Code: type <b style="color:#fff">CEO EMAIL RESPONSE</b>, then e.g. "1: yes, 2: later".</p>
+    <ol style="padding-left:18px;margin:0">
+      <li style="margin-bottom:10px"><b>{{the ask}}</b><br>{{context}} · <i>Options:</i> {{A / B}} · <b style="color:#38d39f">I recommend {{X}}</b> because {{why}} · <i>Costs you:</i> {{time/money}}</li>
+    </ol>
+    <!-- if nothing: "Nothing today." -->
+  </div>
+
+  <!-- NEXT -->
+  <h2 style="font-size:17px;color:#0b0b0f;border-bottom:3px solid #6b5bd6;padding-bottom:6px;margin:26px 0 10px">👀 What I'm watching next</h2>
+  <ul style="padding-left:18px;margin:0"><li>{{what, and what result would change the plan}}</li></ul>
+
+  <p style="color:#64748b;font-size:12px;margin-top:26px;border-top:1px solid #e5e7eb;padding-top:10px">Every action, with its time and reason: ceo/ledger/{{YYYY-MM}}.md</p>
+</div>
