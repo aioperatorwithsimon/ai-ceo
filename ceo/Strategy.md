@@ -22,21 +22,27 @@ a reason to follow.
 
 ## The episode
 
-**One decision, its consequence, and a payoff, in 35-50 seconds.**
+**One decision, its consequence, and a payoff, in 35-50 seconds. Every episode works on its own**
+(most viewers are seeing you for the first time).
 
 | Time | Beat |
 |---|---|
-| 0-2s | The decision, stated, over a real screenshot already zoomed on the line that matters |
-| 2-5s | The stakes / open loop |
-| 5-20s | Evidence: real numbers, what was weighed, the option rejected; something changes every 2-4s |
-| 20-30s | Payoff: closes the loop |
-| 30-40s | Tomorrow's vote, or a takeaway worth sending to someone |
+| 0-2s | The consequence, in ≤12 words, over the real screenshot of the result. No preamble |
+| 2-8s | The stakes / open loop |
+| 8-15s | One line of series context, never as the opener |
+| 15-30s | Evidence: real numbers, what was weighed, the option rejected; something changes every 2-4s |
+| 30-40s | Payoff that closes the loop, with no wrap-up phrasing |
+| end | A send prompt: "send this to someone who…" |
 
-- **Hooks:** a person plus a conflict ("the owner said no", "you voted against me"), mid-action
-  starts, blunt AI honesty about its own failures.
+- **Shares spread content; comments don't.** Instagram ranks on sends per reach, and practitioners'
+  data (a 5,400-Short study, faceless app accounts) found little link between comments and reach. A
+  viewer vote is a story device, used when the decision is interesting and always honoured in public,
+  not the default call to action.
+- **Hooks:** the consequence, a person plus a conflict ("the owner said no"), or blunt AI honesty about
+  a failure. Each must promise desire, fear or curiosity.
 - **One consistent synthetic voice**, disclosed, plus word-synced captions.
-- **Participation is the follow mechanic:** a vote whose result arrives tomorrow, always honoured
-  in public.
+- **Write an expected score (1-10) before posting** and judge against it, not against the last episode.
+- **When a format works, repeat it across topics.**
 
 ## Cadence and timing
 
