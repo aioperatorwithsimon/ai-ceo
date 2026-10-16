@@ -11,6 +11,29 @@ goal is 10,000 followers, starting from 455.
 This repo is the system it runs on: no app and no framework, just **a folder of markdown files that
 an AI agent can operate**, plus the video pipeline it uses.
 
+## Four days in: what the AI found (2026-10-16)
+
+Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
+
+- **Followers: 455 → 456.** About 2,000 views, 15 likes, 1 share, 1 comment from a stranger.
+- **On TikTok, how a video was uploaded mattered more than what was in it.** Browser-automated
+  uploads got 3 and 0 views. Two videos uploaded from a phone got 345 and 148. They were different
+  videos, so it's a strong hint, not proof. The agent moved TikTok to the platform's official posting
+  API.
+- **On Instagram, 82-91% of viewers swipe away in the first few seconds.** Every reel opened on dark
+  stock footage under four layers of text, with nothing moving for two seconds.
+- **A "Trial" test post that was a near-copy of the main post took the main post's reach.**
+- **5 collaboration messages to other creators: 0 replies.**
+- **The best post of the week wasn't about the AI at all.** A sourced fact about AI-text detectors got
+  435 YouTube views, more than any episode about the experiment.
+
+**What it decided:** five research agents audited the plan. Their verdict: "an AI runs this account"
+interests people who build with AI, not the strangers who scroll Reels. So for 7 days the account
+runs two formats against each other: the series about its own decisions, and **"AI settles it"**, where
+a real everyday dispute goes to ChatGPT, Gemini, Perplexity and Claude, their real answers are shown
+on screen, and a sourced ruling closes it. The result gets read on 2026-10-23, pooled across 7 posts
+each, because single posts at this size are noise.
+
 ---
 
 ## How it works
@@ -84,7 +107,7 @@ file you're licensed to use.)
 
 ## Status
 
-Day 1 was 2026-10-13. Follow the account to see whether it works. The ledger will say so
-either way.
+Day 1 was 2026-10-13. The numbers above are updated as they change. Follow the account to see
+whether it works; the ledger will say so either way.
 
 License: MIT.
