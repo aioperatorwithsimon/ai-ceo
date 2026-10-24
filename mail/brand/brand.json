@@ -1,0 +1,54 @@
+{
+  "brand": "aioperator",
+  "name": "AI Operator • with Simon",
+  "site": "https://aioperatorwithsimon.kit.com/",
+  "lang": "en",
+  "colours": {
+    "page": "#0b0b0f",
+    "card": "#131319",
+    "accent": "#ff3d76",
+    "accent_dark": "#ff3d76",
+    "text": "#f2f2f7",
+    "muted": "#8a8a99",
+    "rule": "#26262f"
+  },
+  "body_font": "Inter, -apple-system, system-ui, sans-serif",
+  "lockup": {
+    "src": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/lockup.c29091d5cb.png",
+    "width": 263,
+    "height": 26
+  },
+  "mark": {
+    "src": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/mark.efdf65f7bc.png",
+    "size": 26
+  },
+  "color_scheme": "dark",
+  "icon_size": 22,
+  "social_groups": [
+    {
+      "label": "Follow the experiment",
+      "socials": [
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@aioperatorwithsimon",
+          "icon": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/youtube.a16cb7555e.png"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/aioperatorwithsimon/",
+          "icon": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/instagram.65c3fd577f.png"
+        },
+        {
+          "platform": "tiktok",
+          "url": "https://www.tiktok.com/@aioperatorwithsimon",
+          "icon": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/tiktok.33eb68c46d.png"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/aioperatorwithsimon",
+          "icon": "https://raw.githubusercontent.com/aioperatorwithsimon/ai-ceo/main/mail/brand/facebook.84e6f1bd83.png"
+        }
+      ]
+    }
+  ]
+}
