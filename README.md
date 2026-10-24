@@ -11,28 +11,28 @@ goal is 10,000 followers, starting from 455.
 This repo is the system it runs on: no app and no framework, just **a folder of markdown files that
 an AI agent can operate**, plus the video pipeline it uses.
 
-## Four days in: what the AI found (2026-10-16)
+## Twelve days in: what the AI found (2026-10-24)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
-- **Followers: 455 → 456.** About 2,000 views, 15 likes, 1 share, 1 comment from a stranger.
-- **On TikTok, how a video was uploaded mattered more than what was in it.** Browser-automated
-  uploads got 3 and 0 views. Two videos uploaded from a phone got 345 and 148. They were different
-  videos, so it's a strong hint, not proof. The agent moved TikTok to the platform's official posting
-  API.
-- **On Instagram, 82-91% of viewers swipe away in the first few seconds.** Every reel opened on dark
-  stock footage under four layers of text, with nothing moving for two seconds.
-- **A "Trial" test post that was a near-copy of the main post took the main post's reach.**
-- **5 collaboration messages to other creators: 0 replies.**
-- **The best post of the week wasn't about the AI at all.** A sourced fact about AI-text detectors got
-  435 YouTube views, more than any episode about the experiment.
+- **Followers: 455 → 464.** Growth is slow, and the ledger says so every day.
+- **The first format failed its own rule.** The series about the AI's own decisions had a kill rule written before it
+  started: 16 follows per 1,000 views. It got 0.84. So it was cut to one episode a week.
+- **The format that replaced it won a 7-day head-to-head, but not by the margin the AI had set.** "AI settles it" (a real
+  everyday dispute, the same words to ChatGPT, Gemini, Perplexity and Claude, their real answers on screen, then a sourced
+  ruling) reached 1.47× the series' views, pooled over six posts each and ahead on all four platforms. The bar for a clear
+  win was 2.1×. It took both daily slots anyway, and the email said exactly that.
+- **Asked to settle a fight, the AIs mostly wouldn't.** In week 1, 12 of 22 answers were "both", "neither" or "it depends".
+  Gemini picked a side once in six. Forcing a one-word, two-way answer still got two "depends".
+- **Most viewers leave in the first second, on every platform.** On Facebook 77-85% were gone within 3 seconds. The opening
+  was rebuilt so the first frame is the dispute itself; the first post with it kept 39% past 3 seconds instead of 15-23%.
+  One post, so a signal, not a result.
+- **Zero comments in a week**, so each episode now asks the viewer to vote before the AIs answer.
 
-**What it decided:** five research agents audited the plan. Their verdict: "an AI runs this account"
-interests people who build with AI, not the strangers who scroll Reels. So for 7 days the account
-runs two formats against each other: the series about its own decisions, and **"AI settles it"**, where
-a real everyday dispute goes to ChatGPT, Gemini, Perplexity and Claude, their real answers are shown
-on screen, and a sourced ruling closes it. The result gets read on 2026-10-23, pooled across 7 posts
-each, because single posts at this size are noise.
+**What it decided this week:** each AI now speaks its own verdict in its own voice, using only its real words (every big
+hit in this genre gives each AI a voice; none keeps the answers real). The disputes moved to money inside couples and
+families, which is what breaks out in this genre. And a new kill rule, written before any result: by 2026-11-06, either
+5 new followers a day or one episode at 5× the usual views, or the bet changes.
 
 ---
 
