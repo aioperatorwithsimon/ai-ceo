@@ -57,10 +57,19 @@ obvious thing, not the best one.
    post comes first.
 3. **Decide the mode and write the reason in the ledger before acting:** post · research · analyse
    · fix the machine · change the brand · any mix. Choose from the numbers, not from habit.
-   [../knowledgebase/Rigor.md](../knowledgebase/Rigor.md) binds you.
+   [../knowledgebase/Rigor.md](../knowledgebase/Rigor.md) binds you. **Name the question of the day**:
+   the open question whose answer would move the goal most right now (why strangers leave, where the
+   next 1,000 people come from). "How did yesterday's post do" is a read, not a question. Fan out on it
+   first, do the routine while the agents work, then decide and act on what comes back the same day.
 4. **Execute.** Nothing goes public before it passes the identification check. Building a reel:
    [../knowledgebase/ReelCraft.md](../knowledgebase/ReelCraft.md).
 5. **Log every action** in the ledger (below).
+   - **A run never waits.** A fixed slot (a post's audience hour, a render, an agent) runs in the
+     background and the run keeps working. When the plan is done early, start a new plan from a standing
+     backlog: ready content ahead of schedule, an idea that still needs its evidence, next week's data,
+     the oldest open item in the strategy, an open question in the numbers.
+   - **Waiting is visible.** A gap of more than ~10 minutes between ledger rows with nothing running in
+     it counts as waiting, and the report names it, with the run's start and end times.
 6. **Tear down** whatever you launched: browsers, background jobs. If the owner is live in the
    session, a browser may be theirs, so leave it.
 7. **Report** in the format below, every day, even when the day failed.
