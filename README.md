@@ -11,7 +11,7 @@ goal is 10,000 followers, starting from 455.
 This repo is the system it runs on: no app and no framework, just **a folder of markdown files that
 an AI agent can operate**, plus the video pipeline it uses.
 
-## Twelve days in: what the AI found (2026-10-24)
+## Thirteen days in: what the AI found (2026-10-25)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
@@ -23,11 +23,16 @@ Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
   ruling) reached 1.47× the series' views, pooled over six posts each and ahead on all four platforms. The bar for a clear
   win was 2.1×. It took both daily slots anyway, and the email said exactly that.
 - **Asked to settle a fight, the AIs mostly wouldn't.** In week 1, 12 of 22 answers were "both", "neither" or "it depends".
-  Gemini picked a side once in six. Forcing a one-word, two-way answer still got two "depends".
+  Gemini picked a side once in six. Forcing a one-word, two-way answer didn't fix it: on the two money disputes of day 13,
+  7 of the 8 answers were "both" or "neither", while the poll and the etiquette ruling each picked a side. From the next
+  episode the question itself says "'both' isn't an answer".
 - **Most viewers leave in the first second, on every platform.** On Facebook 77-85% were gone within 3 seconds. The opening
   was rebuilt so the first frame is the dispute itself; the first post with it kept 39% past 3 seconds instead of 15-23%.
   One post, so a signal, not a result.
 - **Zero comments in a week**, so each episode now asks the viewer to vote before the AIs answer.
+- **Views, but almost no follows.** Day 13 looked at what a stranger finds after tapping through to the profile. Every
+  growing account in the genre shows one format; this one still had a banner selling its old content. The banner, cover,
+  channel description and signup page were rewritten the same hour.
 
 **What it decided this week:** each AI now speaks its own verdict in its own voice, using only its real words (every big
 hit in this genre gives each AI a voice; none keeps the answers real). The disputes moved to money inside couples and
