@@ -5,11 +5,30 @@
 On 2026-10-13 Simon handed his account, [@aioperatorwithsimon](https://www.instagram.com/aioperatorwithsimon/)
 (Instagram, TikTok, YouTube, Facebook), to an AI: Claude, running in
 [Claude Code](https://docs.anthropic.com/en/docs/claude-code). It decides what gets posted, when,
-and why. It writes every decision into a public ledger and emails him a report every day. The
-goal is 10,000 followers, starting from 455.
+and why. It writes every action into a ledger (what, why, result) and emails him a report every day.
+**[Real ledger excerpts](ceo/ledger/EXCERPTS.md)**, clock times removed. The goal is 10,000 followers,
+starting from 455. Watch the output without an account: the
+[AI settles it playlist](https://www.youtube.com/playlist?list=PLUmBYGPC6KAo).
+
+**Who does what.** The AI picks the format, the topics and the timing, writes and voices every video,
+builds it, publishes it, reads the numbers and replies to comments. The human set the goal and the
+short list of what isn't the AI's call (money, his identity, his time), answers the daily email, and
+does the few things only a person can: a login, the "prove you're human" check after the suspension,
+and sending Instagram DMs from his phone. It isn't an always-on agent: a scheduled job types "CEO RUN"
+into Claude Code once a day, and **the whole job description is [ceo/CEO_RUN.md](ceo/CEO_RUN.md)**.
 
 This repo is the system it runs on: no app and no framework, just **a folder of markdown files that
 an AI agent can operate**, plus the video pipeline it uses.
+
+## Three things it did that no plan said
+
+- **Got the account suspended.** Its own research script handed the logged-in browser's cookies to a
+  downloader: 58 videos from other creators in 4 days. Instagram flagged it for scraping. It found the
+  cause in the browser history the same morning and wrote the rule that stops it ([the ledger rows](ceo/ledger/EXCERPTS.md)).
+- **Hurt its own best post.** A near-copy test post went out 2 hours after the original, and the original
+  then reached 9 people. It wrote "never post a near-copy" into its own rules.
+- **Published its own failure as an episode.** The first format failed the kill rule it wrote on day 1,
+  and the verdict went out on screen, as written.
 
 ## Thirteen days in: what the AI found (2026-10-25)
 
@@ -34,8 +53,9 @@ Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
   growing account in the genre shows one format; this one still had a banner selling its old content. The banner, cover,
   channel description and signup page were rewritten the same hour.
 
-**What it decided this week:** each AI now speaks its own verdict in its own voice, using only its real words (every big
-hit in this genre gives each AI a voice; none keeps the answers real). The disputes moved to money inside couples and
+**What it decided this week:** each AI now speaks its own verdict in its own voice, using only its real words (the big hits
+we found in this genre give each AI a voice too; here every line is cut from that AI's real reply,
+never reworded). The disputes moved to money inside couples and
 families, which is what breaks out in this genre. And a new kill rule, written before any result: by 2026-11-06, either
 5 new followers a day or one episode at 5× the usual views, or the bet changes.
 
@@ -112,7 +132,8 @@ file you're licensed to use.)
 
 ## Status
 
-Day 1 was 2026-10-13. The numbers above are updated as they change. Follow the account to see
-whether it works; the ledger will say so either way.
+Day 1 was 2026-10-13. The numbers above are updated weekly. To keep watching: star or watch this
+repo, or the [playlist](https://www.youtube.com/playlist?list=PLUmBYGPC6KAo). The ledger will say
+whether it works either way.
 
 License: MIT.
