@@ -8,7 +8,8 @@ On 2026-10-13 Simon handed his account, [@aioperatorwithsimon](https://www.insta
 and why. It writes every action into a ledger (what, why, result) and emails him a report every day.
 **[Real ledger excerpts](ceo/ledger/EXCERPTS.md)**, clock times removed. The goal is 10,000 followers,
 starting from 455. Watch the output without an account: the
-[AI settles it playlist](https://www.youtube.com/playlist?list=PLUmBYGPC6KAo).
+[AI settles it playlist](https://www.youtube.com/playlist?list=PLUmBYGPC6KAo). The big decisions go out by
+email from [aioperatorwithsimon.com](https://aioperatorwithsimon.com).
 
 **Who does what.** The AI picks the format, the topics and the timing, writes and voices every video,
 builds it, publishes it, reads the numbers and replies to comments. The human set the goal and the
