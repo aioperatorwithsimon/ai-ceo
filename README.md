@@ -31,34 +31,27 @@ an AI agent can operate**, plus the video pipeline it uses.
 - **Published its own failure as an episode.** The first format failed the kill rule it wrote on day 1,
   and the verdict went out on screen, as written.
 
-## Thirteen days in: what the AI found (2026-10-25)
+## Thirty-three days in: where it stands (2026-11-14)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
-- **Followers: 455 → 464.** Growth is slow, and the ledger says so every day.
+- **Followers: 455 → 462.** People watch; almost nobody follows. The ledger says so every day.
 - **The first format failed its own rule.** The series about the AI's own decisions had a kill rule written before it
-  started: 16 follows per 1,000 views. It got 0.84. So it was cut to one episode a week.
-- **The format that replaced it won a 7-day head-to-head, but not by the margin the AI had set.** "AI settles it" (a real
-  everyday dispute, the same words to ChatGPT, Gemini, Perplexity and Claude, their real answers on screen, then a sourced
-  ruling) reached 1.47× the series' views, pooled over six posts each and ahead on all four platforms. The bar for a clear
-  win was 2.1×. It took both daily slots anyway, and the email said exactly that.
-- **Asked to settle a fight, the AIs mostly wouldn't.** In week 1, 12 of 22 answers were "both", "neither" or "it depends".
-  Gemini picked a side once in six. Forcing a one-word, two-way answer didn't fix it: on the two money disputes of day 13,
-  7 of the 8 answers were "both" or "neither", while the poll and the etiquette ruling each picked a side. From the next
-  episode the question itself says "'both' isn't an answer".
-- **Most viewers leave in the first second, on every platform.** On Facebook 77-85% were gone within 3 seconds. The opening
-  was rebuilt so the first frame is the dispute itself; the first post with it kept 39% past 3 seconds instead of 15-23%.
-  One post, so a signal, not a result.
-- **Zero comments in a week**, so each episode now asks the viewer to vote before the AIs answer.
-- **Views, but almost no follows.** Day 13 looked at what a stranger finds after tapping through to the profile. Every
-  growing account in the genre shows one format; this one still had a banner selling its old content. The banner, cover,
-  channel description and signup page were rewritten the same hour.
+  started: 16 follows per 1,000 views. It got 0.84, and was cut.
+- **Its replacement won, but not by the margin the AI had set.** "AI settles it" (a real everyday dispute, the same words
+  to ChatGPT, Gemini, Perplexity and Claude, their real answers on screen) reached 1.47× the series' views over a week,
+  ahead on all four platforms. The bar for a clear win was 2.1×. It took over anyway, and the owner's email said exactly that.
+- **The next target missed too.** By 2026-11-06: 5 new followers a day. In the week to 11-11 the total went from 466 to 462.
+  So the bet changed, as the rule said it would.
+- **Two new bets from 11-11.** The evening slot became "who would win" matchups, the four AIs voting; they are the first posts
+  in two weeks with real comments. And every Sunday one long video: the same prompt to the four AIs, each builds a whole
+  game in one HTML file, and the games are played and scored on screen. Claude scores its own build, and the video says so.
+- **The games are playable.** [aioperatorwithsimon.com/play/fnaf/](https://aioperatorwithsimon.com/play/fnaf/) has the four
+  builds of week 2, unedited.
+- **Threads was tried and dropped:** half its posts got 2 views or fewer, against a bar of 50.
 
-**What it decided this week:** each AI now speaks its own verdict in its own voice, using only its real words (the big hits
-we found in this genre give each AI a voice too; here every line is cut from that AI's real reply,
-never reworded). The disputes moved to money inside couples and
-families, which is what breaks out in this genre. And a new kill rule, written before any result: by 2026-11-06, either
-5 new followers a day or one episode at 5× the usual views, or the bet changes.
+**What decides the next call:** on 2026-11-18, whether the matchups earn follows and not just comments; after a few Sundays,
+whether the game videos bring people back. Every big decision is also on [the website's Log](https://aioperatorwithsimon.com/log/).
 
 ---
 
@@ -133,7 +126,7 @@ file you're licensed to use.)
 
 ## Status
 
-Day 1 was 2026-10-13. The numbers above are updated weekly. To keep watching: star or watch this
+Day 1 was 2026-10-13. The numbers above are updated with every big decision. To keep watching: star or watch this
 repo, or the [playlist](https://www.youtube.com/playlist?list=PLUmBYGPC6KAo). The ledger will say
 whether it works either way.
 
