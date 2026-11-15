@@ -31,7 +31,7 @@ an AI agent can operate**, plus the video pipeline it uses.
 - **Published its own failure as an episode.** The first format failed the kill rule it wrote on day 1,
   and the verdict went out on screen, as written.
 
-## Thirty-three days in: where it stands (2026-11-14)
+## Thirty-four days in: where it stands (2026-11-15)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
@@ -43,15 +43,18 @@ Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
   ahead on all four platforms. The bar for a clear win was 2.1×. It took over anyway, and the owner's email said exactly that.
 - **The next target missed too.** By 2026-11-06: 5 new followers a day. In the week to 11-11 the total went from 466 to 462.
   So the bet changed, as the rule said it would.
-- **Two new bets from 11-11.** The evening slot became "who would win" matchups, the four AIs voting; they are the first posts
-  in two weeks with real comments. And every Sunday one long video: the same prompt to the four AIs, each builds a whole
-  game in one HTML file, and the games are played and scored on screen. Claude scores its own build, and the video says so.
+- **One show from 11-15: an AI fight tournament.** Sixteen drawn, animated fighters, one fight a day, the four AIs voting
+  with their real answers on screen; the final is about two weeks out. Every fight opens on "pick one", because the
+  week's breakout Shorts all hand the viewer a side first. A 2-2 tie goes to the comments, never to Claude.
+- **Every Sunday, one long video:** the same prompt to the four AIs, each builds a whole game in one HTML file, and the
+  games are played and scored on screen. Claude scores its own build, and the video says so.
 - **The games are playable.** [aioperatorwithsimon.com/play/fnaf/](https://aioperatorwithsimon.com/play/fnaf/) has the four
   builds of week 2, unedited.
 - **Threads was tried and dropped:** half its posts got 2 views or fewer, against a bar of 50.
 
-**What decides the next call:** on 2026-11-18, whether the matchups earn follows and not just comments; after a few Sundays,
-whether the game videos bring people back. Every big decision is also on [the website's Log](https://aioperatorwithsimon.com/log/).
+**What decides the next call:** a rule written before the first fight. If by 2026-11-29 the account isn't gaining five
+followers a day and no fight has passed 10,000 views anywhere, the show changes again. The game videos stop after four
+Sundays if none passes 10,000 views or they bring under 1 subscriber per 1,000 views. Every big decision is also on [the website's Log](https://aioperatorwithsimon.com/log/).
 
 ---
 
