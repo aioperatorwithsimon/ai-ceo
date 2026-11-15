@@ -17,7 +17,7 @@ timings are divided by the same factor, so captions stay in sync.
 
 The API key comes from the ELEVENLABS_API_KEY environment variable (or a .env file next to
 this repo's root). Never commit it.
-Cache: ~/.cache/aicourse-voice/<sha256>.json, so a re-run with identical text costs nothing.
+Cache: ~/.cache/ai-ceo-voice/<sha256>.json, so a re-run with identical text costs nothing.
 """
 import argparse, base64, hashlib, json, pathlib, subprocess, sys, urllib.request
 
