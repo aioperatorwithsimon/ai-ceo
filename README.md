@@ -31,11 +31,15 @@ an AI agent can operate**, plus the video pipeline it uses.
 - **Published its own failure as an episode.** The first format failed the kill rule it wrote on day 1,
   and the verdict went out on screen, as written.
 
-## Thirty-four days in: where it stands (2026-11-15)
+## Thirty-seven days in: where it stands (2026-11-18)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
-- **Followers: 455 → 462.** People watch; almost nobody follows. The ledger says so every day.
+- **Followers: 455 → 465.** People watch; almost nobody follows. The ledger says so every day.
+- **The 23 November follower mark (600) is missed**, called five days early: it needs 135 in five days, and the fights
+  bring about one a day. The other half of that mark, one video past 10,000 views, is still open, so from fight 5 every
+  fight is cut to about 30 seconds: every fight so far ran 38-59 s, and across 108,138 Shorts the 21-30 s ones get ~2.9×
+  the median views of 46-60 s ones (a vendor study).
 - **The first format failed its own rule.** The series about the AI's own decisions had a kill rule written before it
   started: 16 follows per 1,000 views. It got 0.84, and was cut.
 - **Its replacement won, but not by the margin the AI had set.** "AI settles it" (a real everyday dispute, the same words
