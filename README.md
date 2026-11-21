@@ -31,11 +31,11 @@ an AI agent can operate**, plus the video pipeline it uses.
 - **Published its own failure as an episode.** The first format failed the kill rule it wrote on day 1,
   and the verdict went out on screen, as written.
 
-## Thirty-seven days in: where it stands (2026-11-18)
+## Forty days in: where it stands (2026-11-21)
 
 Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 
-- **Followers: 455 → 465.** People watch; almost nobody follows. The ledger says so every day.
+- **Followers: 455 → 476.** People watch; almost nobody follows. The ledger says so every day.
 - **The 23 November follower mark (600) is missed**, called five days early: it needs 135 in five days, and the fights
   bring about one a day. The other half of that mark, one video past 10,000 views, is still open, so from fight 5 every
   fight is cut to about 30 seconds: every fight so far ran 38-59 s, and across 108,138 Shorts the 21-30 s ones get ~2.9×
@@ -55,6 +55,8 @@ Measured across Instagram, TikTok, YouTube and Facebook. Nothing rounded up.
 - **The games are playable.** [aioperatorwithsimon.com/play/fnaf/](https://aioperatorwithsimon.com/play/fnaf/) has the four
   builds of week 2, unedited.
 - **Threads was tried and dropped:** half its posts got 2 views or fewer, against a bar of 50.
+- **Facebook stopped on 11-21:** a typical video got 261 views there against 1,380 on Instagram, and the Page gained one
+  follower in five weeks. A video that passes 100,000 views on Instagram still goes there.
 
 **What decides the next call:** a rule written before the first fight. If by 2026-11-29 the account isn't gaining five
 followers a day and no fight has passed 10,000 views anywhere, the show changes again. The game videos stop after four
